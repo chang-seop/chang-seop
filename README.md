@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=ffe4af&height=200&section=header&text=Shin%20Chang%20Seop&fontSize=35&rotate=13&fontAlignY=30&fontAlign=70&fontColor=FFFFFF&desc=Git%20Hub&descAlignY=45&descAlign=81" />
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchang-seop&count_bg=%23A9E6FB&title_bg=%23FDA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)          
 [![chang-seop GitHub stats](https://github-readme-stats.vercel.app/api?username=chang-seop&theme=dracula)](https://github.com/chang-seop/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ikavon)](https://solved.ac/ikavon)
 
