@@ -23,7 +23,6 @@
 
 ![Junit5](https://img.shields.io/badge/Junit5-25A162.svg?&style=for-the-badge&logo=Junit5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
