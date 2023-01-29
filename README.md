@@ -19,7 +19,6 @@
 ![JPA](https://img.shields.io/badge/JPA-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white)
 ![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Querydsl](https://img.shields.io/badge/Querydsl-007ACC.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring-Security&logoColor=white)
 
 ![Junit5](https://img.shields.io/badge/Junit5-25A162.svg?&style=for-the-badge&logo=Junit5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
