@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=ffe4af&height=200&section=header&text=Shin%20Chang%20Seop&fontSize=35&rotate=13&fontAlignY=30&fontAlign=70&fontColor=FFFFFF&desc=Git%20Hub&descAlignY=45&descAlign=81" />
 
 [![chang-seop GitHub stats](https://github-readme-stats.vercel.app/api?username=chang-seop&theme=dracula)](https://github.com/chang-seop/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ikavon)](https://solved.ac/ikavon)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ikavon)](https://solved.ac/{handle})
 
 # Skills
 ### Platforms & Languages
