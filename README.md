@@ -30,4 +30,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # Side Projects
-### Nineto6 CSR Login Service : [Nineto6 BE-Login](https://github.com/nineto6/BE-Login)
+### Nineto6 CSR Login Service : [BE-Login](https://github.com/nineto6/BE-Login)
