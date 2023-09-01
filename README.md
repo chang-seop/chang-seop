@@ -12,7 +12,6 @@
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-![JDBC](https://img.shields.io/badge/JDBC-6DB33F.svg?&style=for-the-badge&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/Mybatis-4479A1.svg?&style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
