@@ -30,6 +30,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-# Side Projects
-### Nineto6 CSR Login Service : [BE-Login](https://github.com/nineto6/BE-Login)
-### Nineto6 CSR Chat Service : [BE-Chat](https://github.com/nineto6/BE-Chat)
+# Toy Projects
+### CSR SpringSecurity, JWT, Redis를 활용한 로그인 구현 토이 프로젝트 : [BE-Login](https://github.com/nineto6/BE-Login)
+### CSR 채팅방 구현 토이 프로젝트 : [BE-Chat](https://github.com/nineto6/BE-Chat)
+### SSR 페이징처리 구현 토이 프로젝트 : [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
