@@ -31,6 +31,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # Toy Projects
-### CSR SpringSecurity, JWT, Redis를 활용한 로그인 구현 토이 프로젝트 : [BE-Login](https://github.com/nineto6/BE-Login)
-### CSR 채팅방 구현 토이 프로젝트 : [BE-Chat](https://github.com/nineto6/BE-Chat)
-### SSR 페이징처리 구현 토이 프로젝트 : [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
+### CSR SpringSecurity, JWT, Redis를 활용한 로그인 프로젝트: [BE-Login](https://github.com/nineto6/BE-Login)
+### CSR WebSocket 위에서 동작하는 STOMP를 활용한 채팅방 프로젝트: [BE-Chat](https://github.com/nineto6/BE-Chat)
+### SSR 게시글 페이징처리 프로젝트: [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
