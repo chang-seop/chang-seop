@@ -32,3 +32,4 @@
 
 # Toy Projects
 ### 게시글 프로젝트: [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
+### 96talk 채팅 프로젝트 BE 담당 : [BE-96Talk](https://github.com/nineto6/BE-96Talk)
