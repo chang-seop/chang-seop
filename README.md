@@ -31,5 +31,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # Toy Projects
-### 게시글 프로젝트: [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
-### 96talk 채팅 프로젝트 BE 담당 : [BE-96Talk](https://github.com/nineto6/BE-96Talk)
+### SSR 게시글 프로젝트: [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
+### CSR 96talk 채팅 프로젝트 BE 담당: [BE-96Talk](https://github.com/nineto6/BE-96Talk)
