@@ -29,7 +29,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-# Toy Projects
-### SSR 게시글 프로젝트: [spring-pagging-study](https://github.com/chang-seop/spring-pagging-study)
-### CSR 96talk 채팅 프로젝트 BE 담당: [BE-96Talk](https://github.com/nineto6/BE-96Talk)
